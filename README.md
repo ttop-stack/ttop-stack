@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ttop-stack
 - 👀 I’m interested in Fashion, Love, and improving the universe
-- 🌱 I’m currently learning CS Bachelor at Arcadia University as well as being a better person
+- 🌱 I’m currently learning CS at Arcadia University as well as being a better person
 - 💞️ I’m looking to collaborate on Security projects, games, machine learning
 - 📫 How to reach me by email ttopacosta7@gmail.com
 - 😄 Pronouns: he/him
