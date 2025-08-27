@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ttop-stack
-- 👀 I’m interested in Fashion, Love, and improving the universe
-- 🌱 I’m currently learning CS at Arcadia University as well as being a better person
-- 💞️ I’m looking to collaborate on Security projects, games, machine learning
+- 👀 I’m interested in Fashion, Computers, and improving our world
+- 🌱 I’m currently learning CS at Arcadia University 
+- 💞️ I’m looking to collaborate on Security projects, games, ML , webdev, and UI
 - 📫 How to reach me by email ttopacosta7@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like skateboarding
